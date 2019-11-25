@@ -2,48 +2,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://sxzhdjkhd.sxdygbjy.gov.cn:8082/zhdj/file/SXPartyBuild.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>https://www.gsdj.gov.cn/apk/logo512.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>https://www.gsdj.gov.cn/apk/logo57.png</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.sxunicom.H5B1841EE</string>
-				<key>bundle-version</key>
-				<string>3.0.2</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-				<string>三晋先锋</string>
-				<key>title</key>
-				<string>三晋先锋</string>
-			</dict>
-		</dict>
-	</array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://221.204.170.102:8082/zhdj/img/SXPartyBuild.ipa</string>
+<key>New item</key>
+<string></string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.sxunicom.H5B1841EE</string>
+<key>bundle-version</key>
+<string>3.0.2</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>三晋先锋</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
